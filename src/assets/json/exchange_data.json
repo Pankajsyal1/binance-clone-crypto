@@ -1,0 +1,1219 @@
+{
+    "market_trend": [{
+            "image": "images/coins/bitcoin.png",
+            "name": "BTC",
+            "pair": "BTC",
+            "price": "435.5",
+            "change": "0.39",
+            "cap": "71908M"
+        },
+        {
+            "image": "images/coins/bitcoin.png",
+            "name": "BTC",
+            "pair": "BTC",
+            "price": "435.5",
+            "change": "0.39",
+            "cap": "71908M"
+        },
+        {
+            "image": "images/coins/bitcoin.png",
+            "name": "BTC",
+            "pair": "BTC",
+            "price": "435.5",
+            "change": "0.39",
+            "cap": "71908M"
+        },
+        {
+            "image": "images/coins/bitcoin.png",
+            "name": "BTC",
+            "pair": "BTC",
+            "price": "435.5",
+            "change": "0.39",
+            "cap": "71908M"
+        },
+        {
+            "image": "images/coins/bitcoin.png",
+            "name": "BTC",
+            "pair": "BTC",
+            "price": "435.5",
+            "change": "0.39",
+            "cap": "71908M"
+        }
+    ],
+    "portfolio_data": [{
+            "image": "images/user.svg",
+            "title": "Fund your account",
+            "des": "Add funds to your crypto account to start trading crypto. You can add funds with a variety of payment methods."
+        },
+        {
+            "image": "images/kyc.svg",
+            "title": "Verify your identity",
+            "des": "Complete the identity verification process to secure your account and transactions."
+        },
+        {
+            "image": "images/spot.svg",
+            "title": "Start trading",
+            "des": "You're good to go! Buy/sell crypto, set up recurring buys for your investments, and discover what Binance has to offer."
+        }
+    ],
+    "explore_crypto": [{
+            "image": "images/nft.png",
+            "title": "Dive into the world of NFTs",
+            "des": "Open rare Mystery Boxes, explore IGOs, Fan Tokens, and more with Binance NFT."
+        },
+        {
+            "image": "images/binance-pay.png",
+            "title": "Grow your business with Binance Pay",
+            "des": "Reach more customers as you pay and get paid in crypto with our borderless payment technology on Binance Pay & Binance Marketplace."
+        },
+        {
+            "image": "images/binance-earn.png",
+            "title": "Binance Earn",
+            "des": "Hold your crypto funds and start earning."
+        }
+    ],
+    "trusted_data": [{
+            "image": "images/secure-asset.svg",
+            "title": "Secure Asset Fund for Users (SAFU)",
+            "des": "Binance stores 10% of all trading fees in a secure asset fund to protect a share of user funds."
+        },
+        {
+            "image": "images/access-control.svg",
+            "title": "Personalized Access Control",
+            "des": "Advanced access control allows you to restrict devices and addresses that can access your account, for greater ease of mind."
+        },
+        {
+            "image": "images/unlock.svg",
+            "title": "Advanced Data Encryption",
+            "des": "Your transaction data is secured via end-to-end encryption, ensuring that only you have access to your personal information."
+        }
+    ],
+    "need_help": [{
+            "image": "images/cs.svg",
+            "title": "Dive into the world of NFTs",
+            "des": "Open rare Mystery Boxes, explore IGOs, Fan Tokens, and more with Binance NFT.",
+            "link": "chat"
+        },
+        {
+            "image": "images/community.svg",
+            "title": "Grow your business with Binance Pay",
+            "des": "Reach more customers as you pay and get paid in crypto with our borderless payment technology on Binance Pay & Binance Marketplace.",
+            "link": "Learn More"
+        },
+        {
+            "image": "images/blog.svg",
+            "title": "Binance Earn",
+            "des": "Hold your crypto funds and start earning.",
+            "link": "Learn More"
+        }
+    ],
+    "orders_book_buy": [{
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        }
+    ],
+    "orders_book_sell": [{
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        }, {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        }, {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        },
+        {
+            "price": "0.00000648",
+            "amount": " 31",
+            "total": "0.0002009"
+        }
+    ],
+    "currency_tabs": [
+        "★",
+        "BTC",
+        "ETH",
+        "BNB",
+        "USDT"
+    ],
+    "favData": [{
+            "pair": "DOGE/BTC",
+            "price": "001052",
+            "change": "12.50"
+        },
+        {
+            "currency": "images/exchange/bitcoin.png",
+            "pair": "BTC/ETH",
+            "price": "-001052",
+            "change": "3.00"
+        },
+        {
+            "currency": "images/exchange/shib.png",
+            "pair": "SHIB/BNB",
+            "price": "-001052",
+            "change": "2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/USDT",
+            "price": "001052",
+            "change": "4.50"
+        }
+    ],
+    "btcData": [{
+            "currency": "images/exchange/xrp.png",
+            "pair": "XRP/BTC",
+            "price": "-001052",
+            "change": "4.25"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/sol.png",
+            "pair": "SOL/BTC",
+            "price": "001052",
+            "change": "3.12"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/BTC",
+            "price": "001052",
+            "change": "-4.25"
+        },
+        {
+            "currency": "images/exchange/xrp.png",
+            "pair": "XRP/BTC",
+            "price": "-001052",
+            "change": "-1.25"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "-4.50"
+        },
+        {
+            "currency": "images/exchange/sol.png",
+            "pair": "SOL/BTC",
+            "price": "-001052",
+            "change": "-5.00"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/BTC",
+            "price": "001052",
+            "change": "12.50"
+        },
+        {
+            "currency": "images/exchange/xrp.png",
+            "pair": "XRP/BTC",
+            "price": "001052",
+            "change": "10.00"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BTC",
+            "price": "001052",
+            "change": "25.00"
+        },
+        {
+            "currency": "images/exchange/sol.png",
+            "pair": "SOL/BTC",
+            "price": "001052",
+            "change": "01.50"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/BTC",
+            "price": "001052",
+            "change": "-2.50"
+        }
+    ],
+    "ethData": [{
+            "currency": "images/exchange/xrp.png",
+            "pair": "XRP/ETH",
+            "price": "-001052",
+            "change": "789"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/ETH",
+            "price": "-001052",
+            "change": "-789"
+        },
+        {
+            "currency": "images/exchange/sol.png",
+            "pair": "SOL/ETH",
+            "price": "001052",
+            "change": "789"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/ETH",
+            "price": "001052",
+            "change": "-789"
+        }
+    ],
+    "bnbData": [{
+            "currency": "images/exchange/xrp.png",
+            "pair": "XRP/BNB",
+            "price": "001052",
+            "change": "456"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/BNB",
+            "price": "-001052",
+            "change": "456"
+        },
+        {
+            "currency": "images/exchange/sol.png",
+            "pair": "SOL/BNB",
+            "price": "001052",
+            "change": "-456"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/BNB",
+            "price": "001052",
+            "change": "456"
+        }
+    ],
+    "usdtData": [{
+            "currency": "images/exchange/xrp.png",
+            "pair": "XRP/USDT",
+            "price": "-001052",
+            "change": "258"
+        },
+        {
+            "currency": "images/exchange/wrx.png",
+            "pair": "WRX/USDT",
+            "price": "-001052",
+            "change": "258"
+        },
+        {
+            "currency": "images/exchange/sol.png",
+            "pair": "SOL/USDT",
+            "price": "-001052",
+            "change": "258"
+        },
+        {
+            "currency": "images/exchange/matic.png",
+            "pair": "MATIC/USDT",
+            "price": "001052",
+            "change": "258"
+        }
+    ],
+    "marketData": [{
+            "price": "-0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "-0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "-0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "-0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "-0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "-0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00000014",
+            "amount": "411",
+            "time": "11:25:74"
+        }
+    ],
+    "myData": [{
+            "price": "0.00014",
+            "amount": "501",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00014",
+            "amount": "501",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00014",
+            "amount": "501",
+            "time": "11:25:74"
+        },
+        {
+            "price": "-0.00014",
+            "amount": "501",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00014",
+            "amount": "501",
+            "time": "11:25:74"
+        },
+        {
+            "price": "-0.00014",
+            "amount": "501",
+            "time": "11:25:74"
+        },
+        {
+            "price": "0.00014",
+            "amount": "501",
+            "time": "11:25:74"
+        },
+        {
+            "price": "-0.00014",
+            "amount": "501",
+            "time": "11:25:74"
+        }
+    ],
+    "market_activity": [{
+            "currency": "WRX",
+            "pair": "BTC",
+            "change": "10.08",
+            "time": "In 2 hours"
+        },
+        {
+            "currency": "BNB",
+            "pair": "ETH",
+            "change": "-20.08",
+            "time": "In 1.5 hours"
+        }
+    ],
+    "open_orders": [{
+            "currency": "BNB/ETH",
+            "type": "Limit",
+            "price": "546",
+            "qty": "10",
+            "total": "5460",
+            "completed": "10",
+            "pending": "0"
+        },
+        {
+            "currency": "BNB/ETH",
+            "type": "Limit",
+            "price": "546",
+            "qty": "10",
+            "total": "5460",
+            "completed": "10",
+            "pending": "0"
+        },
+        {
+            "currency": "BNB/ETH",
+            "type": "Limit",
+            "price": "546",
+            "qty": "10",
+            "total": "5460",
+            "completed": "10",
+            "pending": "0"
+        },
+        {
+            "currency": "BNB/ETH",
+            "type": "Limit",
+            "price": "546",
+            "qty": "10",
+            "total": "5460",
+            "completed": "10",
+            "pending": "0"
+        },
+        {
+            "currency": "BNB/ETH",
+            "type": "Limit",
+            "price": "546",
+            "qty": "10",
+            "total": "5460",
+            "completed": "10",
+            "pending": "0"
+        },
+        {
+            "currency": "BNB/ETH",
+            "type": "Limit",
+            "price": "546",
+            "qty": "10",
+            "total": "5460",
+            "completed": "10",
+            "pending": "0"
+        },
+        {
+            "currency": "BNB/ETH",
+            "type": "Limit",
+            "price": "546",
+            "qty": "10",
+            "total": "5460",
+            "completed": "10",
+            "pending": "0"
+        },
+        {
+            "currency": "BNB/ETH",
+            "type": "Limit",
+            "price": "546",
+            "qty": "10",
+            "total": "5460",
+            "completed": "10",
+            "pending": "0"
+        }
+    ]
+}
